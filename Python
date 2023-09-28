@@ -1,0 +1,9 @@
+def area_paralellogram(base, height):
+    area = base * height
+    print ("The area is :" , area)
+
+area_paralellogram(5,6)
+
+
+Result 👍
+The area is : 30
